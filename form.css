@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #dacdbc;
+}
+section{
+    margin: 25%;
+    
+    
+}
+fieldset{
+    border-radius: 20px;
+    background-color: hsl(124, 68%, 61%);
+}
